@@ -1,0 +1,10 @@
+<h1><%= @event.name %><h1>
+<h4>Date: <%= @event.date %><br>Location: <%= @event.location %></h4>
+    <p>Regular Price: $<%=format_price(@event.reg_price)%><br>Discount Price: $<%=format_price(@event.disc_price)%></p>
+    <img class = "img-responsive" src ="<%= @event.image_url%>" alt = "">
+    <h3 class="text-danger"> Discount Price $<%=format_price(@event.disc_price)%> <br>You save $<%= format_price(@event.reg_price - @event.disc_price)%>!! </h3> 
+    <a class="btn btn-primary" href="/events/<%= @event.id %>/payment">Register <span class="glyphicon glyphicon-chevron-right"></span></a>
+               
+
+
+    

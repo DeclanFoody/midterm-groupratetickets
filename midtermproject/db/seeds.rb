@@ -1,0 +1,2 @@
+EventsImporter.new.import
+ImagesImporter.new.import

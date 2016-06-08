@@ -1,0 +1,31 @@
+[33mcommit 16113d8478295d439e4ac5f9d439bd74ecbd79ab[m
+Merge: 6c0ea6f 48ec298
+Author: Declan Foody <charles.foody@mail.mcgill.ca>
+Date:   Fri May 20 00:44:35 2016 +0000
+
+    X
+    Merge branch 'mainevents' of github.com:philmeupp/midterm into mybranch
+
+[33mcommit 6c0ea6f58fe3554cf6b9872fee8b1a25efd92bb2[m
+Author: Declan Foody <charles.foody@mail.mcgill.ca>
+Date:   Fri May 20 00:37:31 2016 +0000
+
+    declanswerk
+
+[33mcommit 48ec2985a874a578e182e004b0aba5dfaad62951[m
+Author: selenashi <shiming.shi0718@gmail.com>
+Date:   Thu May 19 19:31:29 2016 +0000
+
+    populate db
+
+[33mcommit 5566ea1fee76016451ba31b78a1ee8b909b806cd[m
+Author: selenashi <shiming.shi0718@gmail.com>
+Date:   Thu May 19 19:15:23 2016 +0000
+
+    populate db
+
+[33mcommit e112d30df6329e1dac6e8df7978c35b68912e3c8[m
+Author: philmeupp <p.hong88@hotmail.com>
+Date:   Thu May 19 01:24:37 2016 +0000
+
+    initial commit
